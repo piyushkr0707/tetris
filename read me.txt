@@ -1,0 +1,9 @@
+tetris.java contains the main function .
+draw contins the canvas class.
+
+to run the prgram just run the tetris.java 
+
+
+If you are not able to see the drawing on the screen (means if screensseems to be blank )
+then try to maximize the screen or just change the window size by dragging the border line of the frame .
+This will helps in refresing the canvas and you will be able to see the drawing .
